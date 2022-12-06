@@ -1,0 +1,8 @@
+main: de.ericzones.permissionsystem.PermissionSystem
+name: PermissionSystem
+version: 1.0
+author: EricZones
+api-version: 1.19
+commands:
+  permission:
+    aliases: [perm]

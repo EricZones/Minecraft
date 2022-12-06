@@ -1,0 +1,6 @@
+# Project exclude paths
+/BungeeDriver/target/
+/BungeeSystem/target/
+/LobbySystem/target/
+/PermissionSystem/target/
+/ProjectSystem/target/
