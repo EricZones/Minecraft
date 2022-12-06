@@ -1,0 +1,18 @@
+Die Mindestanforderungen sollten erfüllt sein und die Bonus Aufgaben lediglich ohne Scoreboard und nicht vollständiger Tablist.
+
+- Für genaue Befehle /perm help
+- Vollständig verwaltbare Gruppen, Permissions und Spieler in Gruppen mit Zusatzfunktionen
+- Zuweisung von Gruppen für festgelegte Zeit
+
+- Überprüfung auf eigenen Rang und Dauer ohne Permission mit /perm user <Nickname> 
+
+- Auf Schildern in erster Zeile [Nickname] hinterlassen für Informationen über Spieler
+
+- Jegliche gruppenspezifische/spielerspezifische Daten werden in Datenbank gespeichert und abgerufen (Mit Konfigurationsdatei)
+
+- "hasPermission" Abfrage wurde überschrieben und funktioniert mit "*" permission
+
+Die Sprache ist per Befehl oder Config auf Englisch und Deutsch konfigurierbar. In der Messages.yml können die Nachrichten
+individuell angepasst werden.
+
+Einige kleine Funktionen sind nicht auf der Anforderungsliste, jedoch mit eingebaut.
